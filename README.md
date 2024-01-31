@@ -1,4 +1,4 @@
-# Link Prediction in Multiplex Networks
+# Link Prediction and Navigability of Multiplex Energy Networks
 
 ## Overview
 This repository hosts a project that applies advanced link prediction techniques to multiplex networks, specifically focusing on energy networks. It features an innovative approach that enhances traditional link prediction algorithms for better accuracy in multi-layered networks. The codebase includes simulations based on Belgium's electricity and gas networks, demonstrating how different random walk strategies and strategic link additions can influence network navigability and resilience. This project is ideal for researchers and practitioners interested in network analysis, link prediction, and network resilience strategies.
