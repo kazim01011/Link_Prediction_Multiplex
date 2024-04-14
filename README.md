@@ -4,7 +4,7 @@
 This project applies advanced link prediction techniques to multiplex networks, specifically focusing on energy networks. It features an innovative approach that enhances traditional link prediction algorithms for better accuracy in multi-layered networks. The codebase includes simulations based on Belgium's electricity and gas networks, demonstrating how different random walk strategies and strategic link additions can influence network navigability and resilience. This project is ideal for researchers and practitioners interested in network analysis, link prediction, and network resilience strategies.
 
 ### Codes
-- **Link_Prediction.ipynb**: This Jupyter notebook contains the complete code for predicting new edges in multiplex networks. It includes the algorithms and methods necessary for link prediction, providing a comprehensive guide to the process.
+- **Link_Prediction.ipynb**: This Jupyter notebook contains the code for predicting new edges in multiplex networks. It includes the algorithms and methods necessary for link prediction, providing a comprehensive guide to the process.
 - **Navigability_RW_Strategies.R**: This script contains various navigability and random walk strategies that can be applied to the predicted edges. While the project currently implements classical, PageRank, and diffusive strategies, the code is also equipped to handle other random walk strategies, depending on the feasibility of the network.
 
 ### Data
@@ -27,5 +27,10 @@ To use this repository:
 ## Contributing
 Contributions to this project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
+## Citation
+If you use the code or data in this repository in your work, please cite the following paper:
+
+Kazim, M., Pirim, H. (2024). Multilayer Analysis of Energy Networks. *ASC*. Available at: 
+
 ## Contact
-kazim01011@yahoo.com
+muhammad.kazim@ndsu.edu
